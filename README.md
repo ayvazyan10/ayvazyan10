@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [ayvazyan.pro](ayvazyan.pro)
 
-- 📝 I regularly write articles on [facebook or my website](facebook or my website)
+- 📝 I regularly write articles on [facebook or my website]
 
 - 💬 Ask me about **php, javascript, vue, react, react-native**
 
