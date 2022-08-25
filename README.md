@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ayvazyan403@gmail.com**
 
-- ⚡ Fun fact **I think laravel and symfony enough for web :D offcourse with js frontend framework if need))**
+- ⚡ Fun fact **no fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
