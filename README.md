@@ -5,6 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Razmik Ayvazyan</h1>
 <h3 align="center">A passionate Full Stack Developer from Armenia</h3>
+<h4>I'm generalist with experience and skills in multiple areas of software development. Have a broad range of skills and can work on various aspects of software development, including front-end development, back-end development, database design, and system administration. Able to approach problems from multiple angles and find creative solutions. Have strong communication and problem-solving skills, and are adaptable and able to take on a wide range of projects.</h4>
 
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayvazyan10" alt="ayvazyan10" /></a> </p>
