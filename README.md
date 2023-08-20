@@ -33,12 +33,12 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ayvazyan10">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayvazyan10&theme=radical" alt="Vahan's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayvazyan10&theme=radical" alt="Razmik's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ayvazyan10">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayvazyan10&theme=radical&column=6&margin-w=15&margin-h=15" alt="Vahan's GitHub trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ayvazyan10&theme=radical&column=6&margin-w=15&margin-h=15" alt="Razmik's GitHub trophy"/>
   </a>
 </p>
