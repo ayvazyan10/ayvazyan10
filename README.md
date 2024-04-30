@@ -11,6 +11,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayvazyan10" alt="ayvazyan10" /></a> </p>
 <br/>
 
+Support: trc-20 - usdt: TQnSZSMZmqizmqyN5pYYF1nioxgQrPZTYU
+
 - 👨‍💻 All of my projects are available at <a href="https://ayvazyan.pro" target="blank">ayvazyan.pro</a>
  
 - 📝 I regularly write articles on [facebook or my website] 
