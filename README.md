@@ -4,22 +4,20 @@
 
 
 <h1 align="center">Hi 👋, I'm Razmik Ayvazyan</h1>
-<h3 align="center">A passionate Full Stack Developer from Armenia</h3>
+<h3 align="center">A passionate Full Stack Engineer from Armenia</h3>
 <h4 align="center" style="text-align:center">I am a generalist developer with experience and skills in multiple areas of software development. I have a broad range of skills and can work on various aspects of software development, including front-end development, back-end development, database design, and system administration. I am able to approach problems from multiple angles and find creative solutions. Additionally, I possess strong communication and problem-solving skills, am adaptable, and able to take on a wide range of projects.</h4>
 
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayvazyan10" alt="ayvazyan10" /></a> </p>
 <br/>
 
-Support: trc-20 - usdt: TQnSZSMZmqizmqyN5pYYF1nioxgQrPZTYU
-
 - 👨‍💻 All of my projects are available at <a href="https://ayvazyan.pro" target="blank">ayvazyan.pro</a>
  
 - 📝 I regularly write articles on [facebook or my website] 
 
-- 💬 Ask me about **php, javascript, vue, react, react-native** 
+- 💬 Ask me about **python, typescript, php, javascript, vue, react, react-native** 
 
-- 📫 How to reach me **ayvazyan403@gmail.com** 
+- 📫 How to reach me **ayvazyan10@gmail.com** 
 
 - ⚡ Fun fact **no fact** 
 <br/>
